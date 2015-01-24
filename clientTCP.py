@@ -27,5 +27,4 @@ response = client.recv(4096)
 
 print response
 
-client.close
-()
+client.close()
